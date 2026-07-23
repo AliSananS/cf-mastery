@@ -26,6 +26,13 @@
       "name": "Terminal 1",
       "color": "",
       "cwd": "C:\\Users\\alisa\\dev\\cf-mastery",
+      "bufferSerial": "\r\n\u001b[36m \u001b[1mcf-mastery\u001b[0m \u001b[90mmain\u001b[36m \r\n\u001b[32;1m❯\u001b[0m \u001b[?1004h",
+      "closedAt": 1784804115633
+    },
+    {
+      "name": "Terminal 1",
+      "color": "",
+      "cwd": "C:\\Users\\alisa\\dev\\cf-mastery",
       "bufferSerial": "\r\n\u001b[36m \u001b[1mcf-mastery\u001b[0m \u001b[90mmain*​\u001b[36m \r\n\u001b[32;1m❯\u001b[0m \u001b[?1004h",
       "closedAt": 1784798141402
     },
