@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "apps/",
+    "packages/",
+    "node_modules/",
+    ".turbo/"
+  ]
+}
