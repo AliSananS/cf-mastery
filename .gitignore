@@ -24,21 +24,6 @@ build/
 out/
 .vercel/
 
-# Obsidian Vault Workspace & Caches
-# (Preserves app.json, community-plugins.json, templates.json, core-plugins.json)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/workspace.json.bak
-.obsidian/file-recovery/
-.obsidian/cache/
-.obsidian/sync-conflict-*
-
-# Obsidian Plugin Runtime State & Secrets
-.obsidian/plugins/obsidian-git/data.json
-.obsidian/plugins/*/cache/
-.obsidian/plugins/*/data-local.json
-.obsidian/plugins/lean-terminal/*.log
-
 # OS & Editor Artifacts
 .DS_Store
 Thumbs.db
@@ -49,4 +34,6 @@ Thumbs.db
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/markdown.code-snippets
 .idea/
