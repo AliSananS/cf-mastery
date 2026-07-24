@@ -280,13 +280,12 @@ It also helped me optimized individual endpoints to reduce latency.
 
 #### Before
 
-![[Toolsweb walltime before KV tag cache.png]]
-
+![Before](../../assets/Toolsweb_walltime_before_KV_tag_cache.png)
 > **Notice here** the script spends most of the checking page validation data from **D1 database.**
 
 #### After
 
-![[Toolsweb after using kv.png]]
+![After](../../assets/Toolsweb_walltime_after_using_kv.png)
 
 > **Win:** Validation lookup is almost identical cache lookup and **~75%** faster than **D1** 
 
