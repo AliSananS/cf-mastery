@@ -1,6 +1,6 @@
 # Cloudflare Mastery
 
-21-week Cloudflare and edge computing learning roadmap repository containing Obsidian notes, content drafts, and projects.
+21-week Cloudflare and edge computing learning roadmap repository containing notes, content drafts, and projects.
 
 ## Rules
 

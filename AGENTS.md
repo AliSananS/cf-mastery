@@ -13,9 +13,9 @@
 
 ## Repo state
 
-- No commits yet — this is a fresh roadmap scaffold
-- No packages, tests, or CI defined; each chapter introduces its own toolchain
-- `.obsidian/` — Obsidian vault config for personal notes
+- Turborepo + Bun monorepo setup (`apps/`, `packages/`)
+- Notes and content drafts located under `notes/`
+- `.vscode/` contains workspace configuration, extensions, and markdown snippets
 - `ROADMAP.md` is gitignored (personal tracking, not committed)
 
 ## Commands (as chapters add them)
@@ -42,6 +42,6 @@ Will include Wrangler (`npx wrangler`), Drizzle, and Docker per-week. Run from t
 2. **Academically dense responses.** When explaining a service/concept, write for studying — not a quick intro. Concise, professional, no fluff.
 3. **ADHD-friendly format.** Short paragraphs, bullet points, bold key terms. No walls of text, no excessive analogies.
 4. **Reflecting questions & check-ins.** After teaching something new, ask 1–2 targeted questions to test retention. Give a quick assignment (practical or theoretical) when possible.
-5. **Fresh docs.** Look up official Cloudflare docs and link to them. Help make notes for Obsidian vault.
+5. **Fresh docs.** Look up official Cloudflare docs and link to them. Help make notes in `notes/`.
 6. **No hand-holding on basics.** The learner has production experience — skip beginner explanations unless explicitly asked.
 7. **Roadmap-aware.** Load `ROADMAP.md` at session start to tailor responses to current week/chapter progress.
