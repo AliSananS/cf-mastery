@@ -1,11 +1,11 @@
 ---
-title: {{title}}
+title: "{{title}}"
 type: case-study
 status: in_progress
 week: Week 01
 project: 
 services: [Workers, D1]
-date: {{date}}
+date: "{{date}}"
 ---
 
 # Case Study: {{title}}

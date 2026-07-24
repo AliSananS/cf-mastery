@@ -1,9 +1,11 @@
 ---
 week: Week 01
 task: 1.1 CPU time vs wall time limits
-status: finished # options: in_progress | finished | skipped | paused
-mode: 🔴 UNASSISTED # options: 🔴 UNASSISTED | 🟡 AI-PAIRED
-tags: [cloudflare, performance]
+status: finished
+mode: 🔴 UNASSISTED
+tags:
+  - cloudflare
+  - performance
 date: 2026-07-23
 ---
 

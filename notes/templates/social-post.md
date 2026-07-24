@@ -1,10 +1,10 @@
 ---
-title: {{title}}
+title: "{{title}}"
 type: social-post
 platform: X / LinkedIn
 status: in_progress
 published: false
-date: {{date}}
+date: "{{date}}"
 ---
 
 # {{title}}

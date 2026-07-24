@@ -5,5 +5,8 @@
     "packages/",
     "node_modules/",
     ".turbo/"
-  ]
+  ],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "notes/assets",
+  "alwaysUpdateLinks": true
 }

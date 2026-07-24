@@ -1,9 +1,9 @@
 ---
-title: {{title}}
+title: "{{title}}"
 type: article
 status: in_progress
 target: Hashnode
-date: {{date}}
+date: "{{date}}"
 ---
 
 # {{title}}

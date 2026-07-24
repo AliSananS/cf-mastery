@@ -5,7 +5,7 @@ mode: 🔴 UNASSISTED # options: 🔴 UNASSISTED | 🟡 AI-PAIRED
 tags:
   - cloudflare
   - performance
-date: {{date}}
+date: "{{date}}"
 ---
 
 # Week 01: [Topic Title]
