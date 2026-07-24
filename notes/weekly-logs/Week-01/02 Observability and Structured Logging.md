@@ -1,6 +1,6 @@
 ---
 week: Week 01
-status: in_progress
+status: finished
 mode: 🔴 UNASSISTED
 tags:
   - cloudflare
