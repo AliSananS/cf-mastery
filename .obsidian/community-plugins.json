@@ -1,4 +1,5 @@
 [
   "lean-terminal",
-  "obsidian-git"
+  "obsidian-git",
+  "remote-ssh"
 ]

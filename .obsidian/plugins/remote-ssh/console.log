@@ -1,0 +1,50 @@
+{"ts":"2026-07-24T13:26:23.004Z","level":"info","msg":"Plugin remote-ssh v1.1.7 loaded"}
+{"ts":"2026-07-24T13:26:37.045Z","level":"info","msg":"SftpClient: connecting to o2.alisanan.site:22 as ubuntu"}
+{"ts":"2026-07-24T13:26:37.048Z","level":"info","msg":"Auth: using private key C:\\Users\\alisa\\.ssh\\o2"}
+{"ts":"2026-07-24T13:26:38.048Z","level":"info","msg":"TOFU: Trusting new host key for o2.alisanan.site:22: SHA256:b4dc4793a71aa270..."}
+{"ts":"2026-07-24T13:26:40.066Z","level":"info","msg":"SftpClient: SSH ready (o2.alisanan.site)"}
+{"ts":"2026-07-24T13:26:41.753Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-24T13:27:28.511Z","level":"info","msg":"SftpClient: connecting to o2.alisanan.site:22 as ubuntu"}
+{"ts":"2026-07-24T13:27:28.513Z","level":"info","msg":"Auth: using private key C:\\Users\\alisa\\.ssh\\o2"}
+{"ts":"2026-07-24T13:27:31.199Z","level":"info","msg":"SftpClient: SSH ready (o2.alisanan.site)"}
+{"ts":"2026-07-24T13:27:33.537Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-24T13:27:39.566Z","level":"info","msg":"SftpClient: connecting to o2.alisanan.site:22 as ubuntu"}
+{"ts":"2026-07-24T13:27:39.567Z","level":"info","msg":"Auth: using private key C:\\Users\\alisa\\.ssh\\o2"}
+{"ts":"2026-07-24T13:27:42.394Z","level":"info","msg":"SftpClient: SSH ready (o2.alisanan.site)"}
+{"ts":"2026-07-24T13:27:44.216Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-24T13:27:49.437Z","level":"info","msg":"SftpClient: connecting to o2.alisanan.site:22 as ubuntu"}
+{"ts":"2026-07-24T13:27:49.439Z","level":"info","msg":"Auth: using private key C:\\Users\\alisa\\.ssh\\o2"}
+{"ts":"2026-07-24T13:27:52.034Z","level":"info","msg":"SftpClient: SSH ready (o2.alisanan.site)"}
+{"ts":"2026-07-24T13:27:53.871Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-24T13:27:59.991Z","level":"info","msg":"SftpClient: connecting to o2.alisanan.site:22 as ubuntu"}
+{"ts":"2026-07-24T13:27:59.993Z","level":"info","msg":"Auth: using private key C:\\Users\\alisa\\.ssh\\o2"}
+{"ts":"2026-07-24T13:28:02.742Z","level":"info","msg":"SftpClient: SSH ready (o2.alisanan.site)"}
+{"ts":"2026-07-24T13:28:04.497Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-24T13:28:27.037Z","level":"info","msg":"ShadowVaultBootstrap: registered shadow vault for o2 at C:\\Users\\alisa\\.obsidian-remote\\vaults\\o2--cf-mastery (registry id=d058030879912e8c, plugin=symlink)"}
+{"ts":"2026-07-24T13:28:27.039Z","level":"info","msg":"SftpClient: connecting to o2.alisanan.site:22 as ubuntu"}
+{"ts":"2026-07-24T13:28:27.039Z","level":"info","msg":"Auth: using private key C:\\Users\\alisa\\.ssh\\o2"}
+{"ts":"2026-07-24T13:28:29.775Z","level":"info","msg":"SftpClient: SSH ready (o2.alisanan.site)"}
+{"ts":"2026-07-24T13:28:31.728Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-24T13:28:33.610Z","level":"info","msg":"pullSharedObsidianConfig: pulled [], skipped [app.json, appearance.json, core-plugins.json, hotkeys.json], errored []"}
+{"ts":"2026-07-24T13:28:35.937Z","level":"info","msg":"pullCommunityPlugins: merged [remote-ssh, lean-terminal, obsidian-git] (changed=true)"}
+{"ts":"2026-07-24T13:28:50.051Z","level":"warn","msg":"preSpawnPull: skipped (pre-spawn pull timed out after 23000ms); shadow window will sync after open"}
+{"ts":"2026-07-24T13:28:50.053Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Calisa%5C.obsidian-remote%5Cvaults%5Co2--cf-mastery"}
+{"ts":"2026-07-24T13:28:50.082Z","level":"info","msg":"openShadowVaultFor: profile=o2, vault=C:\\Users\\alisa\\.obsidian-remote\\vaults\\o2--cf-mastery, registry id=d058030879912e8c (newly registered), plugin=symlink"}
+{"ts":"2026-07-24T13:28:50.298Z","level":"warn","msg":"pullPluginBinaries: obsidian-git skipped (No response from server)"}
+{"ts":"2026-07-24T13:28:50.298Z","level":"info","msg":"pullPluginBinaries: staged [lean-terminal]"}
+{"ts":"2026-07-24T13:29:13.196Z","level":"info","msg":"ShadowVaultBootstrap: registered shadow vault for o2 at C:\\Users\\alisa\\.obsidian-remote\\vaults\\o2--cf-mastery (registry id=5ab2b13622830695, plugin=symlink)"}
+{"ts":"2026-07-24T13:29:13.198Z","level":"info","msg":"SftpClient: connecting to o2.alisanan.site:22 as ubuntu"}
+{"ts":"2026-07-24T13:29:13.199Z","level":"info","msg":"Auth: using private key C:\\Users\\alisa\\.ssh\\o2"}
+{"ts":"2026-07-24T13:29:16.060Z","level":"info","msg":"SftpClient: SSH ready (o2.alisanan.site)"}
+{"ts":"2026-07-24T13:29:17.908Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-24T13:29:23.909Z","level":"info","msg":"Plugin remote-ssh v1.1.7 loaded"}
+{"ts":"2026-07-24T13:29:31.084Z","level":"info","msg":"ShadowVaultBootstrap: reused shadow vault for o2 at C:\\Users\\alisa\\.obsidian-remote\\vaults\\o2--cf-mastery (registry id=5ab2b13622830695, plugin=symlink)"}
+{"ts":"2026-07-24T13:29:31.088Z","level":"info","msg":"SftpClient: connecting to o2.alisanan.site:22 as ubuntu"}
+{"ts":"2026-07-24T13:29:31.089Z","level":"info","msg":"Auth: using private key C:\\Users\\alisa\\.ssh\\o2"}
+{"ts":"2026-07-24T13:29:33.935Z","level":"info","msg":"SftpClient: SSH ready (o2.alisanan.site)"}
+{"ts":"2026-07-24T13:29:35.844Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-24T13:29:37.783Z","level":"info","msg":"pullSharedObsidianConfig: pulled [], skipped [app.json, appearance.json, core-plugins.json, hotkeys.json], errored []"}
+{"ts":"2026-07-24T13:29:40.131Z","level":"info","msg":"pullCommunityPlugins: merged [remote-ssh, lean-terminal, obsidian-git] (changed=false)"}
+{"ts":"2026-07-24T13:29:54.152Z","level":"warn","msg":"preSpawnPull: skipped (pre-spawn pull timed out after 23000ms); shadow window will sync after open"}
+{"ts":"2026-07-24T13:29:54.154Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Calisa%5C.obsidian-remote%5Cvaults%5Co2--cf-mastery"}
+{"ts":"2026-07-24T13:29:54.163Z","level":"info","msg":"openShadowVaultFor: profile=o2, vault=C:\\Users\\alisa\\.obsidian-remote\\vaults\\o2--cf-mastery, registry id=5ab2b13622830695 (reused), plugin=symlink"}
