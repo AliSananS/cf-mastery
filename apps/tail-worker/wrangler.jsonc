@@ -1,0 +1,32 @@
+/**
+ * For more details on how to configure Wrangler, refer to:
+ * https://developers.cloudflare.com/workers/wrangler/configuration/
+ */
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "tail-worker",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-07-24",
+	"observability": {
+		"enabled": true
+	},
+	"upload_source_maps": true,
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+
+	"kv_namespaces": [
+		{
+			"binding": "KV",
+			"id": "test-id",
+			"remote": false
+		}
+	],
+	"d1_databases": [
+		{
+			"binding": "D1",
+			"database_id": "test-id",
+			"database_name": "tail-d1"
+		}
+	]
+}

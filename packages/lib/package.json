@@ -1,0 +1,10 @@
+{
+    "name": "@app/lib",
+    "exports": {
+        "./logger/*": "./src/logger/*",
+        "./types/*": "./src/types/*"
+    },
+    "dependencies": {
+        "@cf-mastery/tsconfig": "workspace:*"
+    }
+}

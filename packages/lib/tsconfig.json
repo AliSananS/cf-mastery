@@ -1,0 +1,6 @@
+{
+    "extends": "@cf-mastery/tsconfig/base.json",
+    "compilerOptions": {
+        "lib": ["DOM"]
+    }
+}
